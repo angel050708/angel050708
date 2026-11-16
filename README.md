@@ -23,14 +23,4 @@ ORDER BY cafe DESC;
 
 <h3 align="center">Proyectos destacados</h3>
 
-| Proyecto | Que resuelve | Stack |
-|---|---|---|
-| **BCflota** | Portal de cuentas por cobrar y ordenes de combustible sin papel sobre Business Central | Next.js · BC API |
-| **Portal de Correcciones** | Revision y correccion segura de datos contables con auditoria | Next.js · Prisma |
-| **Conciliador TPV ↔ ERP** | Cuadra facturas entre punto de venta y ERP, estacion por estacion | SQL · Python |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" height="150" />
-</p>
 
