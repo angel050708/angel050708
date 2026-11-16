@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Angel Solano. Computer engineer. ERP, data and web." width="100%" />
+  <img src="banner.svg" alt="Angel Solano. Computer engineer. ERP, data and web development." width="100%" />
 </p>
 
 ```sql
