@@ -9,7 +9,7 @@ SELECT
     status      = 'Intern in training · Student',
     works_with  = ARRAY['Next.js', 'Web development', 'Dynamics 365 Business Central (AL)', 'SQL Server', 'MySQL', 'Claude Code'],
     learning    = ARRAY['Advanced TypeScript', 'API architecture', 'DevOps'],
-    philosophy  = 'Clear code > clever code. Work hard. Never stop learning.'
+    philosophy  =  'Work hard. Never stop learning.', 'If i can imagine it, it will happen.'
 FROM   angel_solano;
 ```
 
