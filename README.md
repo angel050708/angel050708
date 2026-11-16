@@ -11,7 +11,7 @@ SELECT
     Hobbies       = 'Futbol(Real Madrid)', 'NBA', 'Videogames', 'Star Wars', 'Coding' ], 
     contacto      = 'gerv0711@gmail.com'
 FROM   angel_solano
-
+```
 
 <h3 align="center">Stack</h3>
 <p align="center">
