@@ -33,8 +33,9 @@
     .l2 { animation-delay: 900ms; }
     .l3 { animation-delay: 1250ms; }
     .l4 { animation-delay: 1500ms; }
-    .l5 { animation-delay: 2000ms; }
-    .cur { animation: blink 1.1s steps(1, end) 2.2s infinite; }
+    .l5 { animation-delay: 2100ms; }
+    .l6 { animation-delay: 2400ms; }
+    .cur { animation: blink 1.1s steps(1, end) 2.6s infinite; }
 
     @keyframes rise  { to { opacity: 1; transform: translateY(0); } }
     @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
@@ -74,7 +75,8 @@
     <g class="line l2"><text x="826" y="132" font-size="13" fill="#a69d93">✓ Ready in 1.4s · localhost:3000</text></g>
     <g class="line l3"><text x="826" y="158" font-size="13" fill="#a69d93">GET /dashboard <tspan fill="#f1ebe0">200</tspan> in 112ms</text></g>
     <g class="line l4"><text x="826" y="184" font-size="13" fill="#a69d93">GET /api/orders <tspan fill="#f1ebe0">200</tspan> in 38ms</text></g>
-    <g class="line l5"><text x="826" y="224" font-size="13.5"><tspan fill="#e0483c">$</tspan><tspan fill="#f1ebe0" dx="8">claude</tspan></text></g>
-    <rect class="cur" x="898" y="212" width="8" height="15" fill="#e0483c"/>
+    <g class="line l5"><text x="826" y="210" font-size="13" fill="#a69d93">✓ Compiled /settings in 312ms</text></g>
+    <g class="line l6"><text x="826" y="236" font-size="13" fill="#a69d93">GET /settings <tspan fill="#f1ebe0">200</tspan> in 389ms</text></g>
+    <rect class="cur" x="1030" y="224" width="8" height="15" fill="#e0483c"/>
   </g>
 </svg>
