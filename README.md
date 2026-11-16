@@ -9,7 +9,7 @@ SELECT
     status      = 'Intern in training · Student',
     works_with  = ARRAY['Dynamics 365 Business Central (AL)', 'SQL Server', 'MySQL', 'System integrations', 'Web development'],
     learning    = ARRAY['Advanced TypeScript', 'API architecture', 'DevOps'],
-    philosophy  = 'Clear code > clever code. Work hard. Never stop learning.'
+    
 FROM   angel_solano;
 ```
 
