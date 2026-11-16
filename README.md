@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.svg" alt="Angel Solano. Computer engineer. ERP, data and web development." width="100%" />
+  <img src="banner.svg" alt="Angel Solano. Computer engineer. ERP, data and web development, IT Support." width="100%" />
 </p>
 
 ```sql
 SELECT
     name        = 'Angel Alfredo Solano Juarez',
-    role        = 'Computer Engineer · Web, ERP & Data Developer',
+    role        = 'Computer Engineer · Web, ERP & Data Developer, IT Support',
     status      = 'Intern in training · Student' 'Billingual(Advanced English and Native Spanish),
     works_with  = ARRAY['Next.js', 'Web development', 'Dynamics 365 Business Central (AL)', 'SQL Server', 'MySQL', 'Claude Code'],
     learning    = ARRAY['Advanced TypeScript', 'API architecture', 'DevOps'],
